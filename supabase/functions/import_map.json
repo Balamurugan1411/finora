@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "livekit-server-sdk": "npm:livekit-server-sdk@^2.15.0",
+    "std/http/server": "https://deno.land/std@0.168.0/http/server.ts"
+  }
+}
